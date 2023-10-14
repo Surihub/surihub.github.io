@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Subhin Hwang",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://github.com/Surihub.png",
+    "email": "sbhath17@gmail.com",
+    "phone": "000-0000-0000",
+    "website": "https://surihub.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
